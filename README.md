@@ -1,8 +1,8 @@
 <h1>Dong Gyu </h1>
 
 
-<div style="margin-top:30px">
-  <div style="font-size:35px; font-weight: 500">technology stack 💪
+<div style="margin-top:30px; margin-bottom:30px;">
+  <div style="font-size:35px; font-weight: 500;">technology stack 💪
   </div> <br>
   <div style="display:flex; flex-direction: column">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -14,8 +14,5 @@
   </div>
 </div>
 
-<div style="margin-top:30px">
-<div style="font-size:35px; font-weight: 500">Pinned 💪
-  </div> <br>
+
 ![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyu-youn&show_icons=true&theme=radical)
-</div>
