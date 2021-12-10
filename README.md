@@ -14,5 +14,5 @@
   </div>
 </div>
 
-![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghe1472@naver.com&show_icons=true&theme=radical)
+![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyu-youn&show_icons=true&theme=radical)
 
