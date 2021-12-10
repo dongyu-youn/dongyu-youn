@@ -1,7 +1,7 @@
 <h1>Dong Gyu </h1>
 
 
-<div>
+<div style="margin-top:30px">
   <div style="font-size:35px; font-weight: 500">technology stack 💪
   </div> <br>
   <div style="display:flex; flex-direction: column">
