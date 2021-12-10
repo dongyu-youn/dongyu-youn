@@ -1,6 +1,6 @@
 ### Dong Gyu 
 
-<p style="font-size:25px;">technology stack 💪
+<p style="font-size:35px; font-weight: 500";>technology stack 💪
 </p>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
