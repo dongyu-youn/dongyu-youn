@@ -1,8 +1,8 @@
 <h1>Dong Gyu </h1>
 
 
-<div style="margin-top:30px; margin-bottom:30px;">
-  <div style="font-size:35px; font-weight: 500;">technology stack 💪
+<div style="margin-top:30px; ">
+  <div style="font-size:35px; font-weight: 500; margin-bottom:30px;">technology stack 💪
   </div> 
   <div style="display:flex; flex-direction: column">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
