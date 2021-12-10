@@ -2,7 +2,7 @@
 
 
 <div style="margin-top:30px; margin-bottom:30px;">
-  <div style="font-size:35px; font-weight: 500; ">my coding youtube 💪
+  <h2 style="font-size:35px; font-weight: 500; ">my coding youtube 💪
   </div> 
 
   <div style="display:flex; flex-direction: column">
@@ -14,7 +14,7 @@
 
 
 <div style="margin-top:30px; margin-bottom:30px;">
-  <div style="font-size:35px; font-weight: 500; ">technology stack 💪
+  <h2 style="font-size:35px; font-weight: 500; ">technology stack 💪
   </div> 
 
   <div style="display:flex; flex-direction: column">
