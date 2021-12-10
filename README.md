@@ -1,5 +1,7 @@
 <h1>Dong Gyu </h1>
 
+ <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
+
 
 <div style="margin-top:30px; margin-bottom:30px;">
   <div style="font-size:35px; font-weight: 500; ">technology stack 💪
