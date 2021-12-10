@@ -1,7 +1,7 @@
 ### Dong Gyu 
 
-<p style="font-size:35px; font-weight: 500";>technology stack 💪
-</p>
+<h2 style="font-size:35px; font-weight: 500";>technology stack 💪
+</h2>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
