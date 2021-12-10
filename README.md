@@ -4,6 +4,7 @@
 <div style="margin-top:30px; ">
   <div style="font-size:35px; font-weight: 500; margin-bottom:30px;">technology stack 💪
   </div> 
+  <br>
   <div style="display:flex; flex-direction: column">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
@@ -17,6 +18,6 @@
 
 ![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyu-youn&show_icons=true&theme=radical)
 [![Dongyu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyu-youn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dongyu-youn)
-
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=dongyu-youn)
 
