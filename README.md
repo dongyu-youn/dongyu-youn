@@ -1,4 +1,4 @@
-### Dong Gyu 
+<h1>Dong Gyu </h1>
 
 <h2 style="font-size:35px; font-weight: 500";>technology stack 💪
 </h2>
