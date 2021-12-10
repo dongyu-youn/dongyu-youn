@@ -6,7 +6,7 @@
   </div> 
 
   <div style="display:flex; flex-direction: column">
-  <link src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
  
   </div>
 </div>
