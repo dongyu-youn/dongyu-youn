@@ -17,9 +17,7 @@
 
 <br>
 
-![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyu-youn&show_icons=true&theme=radical)
 
-[![Dongyu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyu-youn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dongyu-youn)
 
 <br>
 
